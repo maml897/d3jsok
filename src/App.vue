@@ -11,6 +11,7 @@ export default {
       datas: [],
       dom: null,
       svg: null,
+      test: '',
     };
   },
   mounted() {},
